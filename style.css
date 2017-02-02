@@ -64,6 +64,10 @@ body {
     justify-content: center;
 }
 
+.logo {
+    margin-bottom: 10px;
+}
+
 .light {
     text-transform: uppercase;
     font-size: 18px;
