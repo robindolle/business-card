@@ -87,3 +87,10 @@ body {
     font-size: 18px;
     color: #666;
 }
+
+.light.second {
+    font-size: 14px;
+    margin-top: 14px;
+    font-style: italic;
+    color: #999;
+}
