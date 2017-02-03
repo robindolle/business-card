@@ -21,6 +21,10 @@ hr {
     margin: 24px auto;
 }
 
+a {
+    color: #185a9d;
+}
+
 .background,
 .container {
     width: 100%;
@@ -109,4 +113,20 @@ hr {
 .card .back .light {
     font-size: 16px;
     line-height: 24px;
+}
+
+.card .back a {
+    color: #666;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 4px;
+    font-size: 28px;
+
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+}
+
+.card .back a:hover {
+    opacity: 0.7;
 }
